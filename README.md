@@ -53,3 +53,8 @@ The current implementation of the NEU Library System has a `Student` class with 
 
 ---
 
+## UML Class Diagram
+
+<p align="center">
+  <img src="./Library.jpg" alt="Library UML Diagram" width="600"/>
+</p>
